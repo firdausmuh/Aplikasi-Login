@@ -6,4 +6,5 @@ Alur fitur login:
 2. Memvalidasi masukkan
 3. Memvalidasi pengguna dengan deteksi wajah.
 4. Memasukkan nama kita dengan benar untuk validasi.
-5. Menampilkan halaman Home. 
+5. Menampilkan halaman Home.
+6. Proses Login Selesai.
